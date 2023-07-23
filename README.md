@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdev04&label=Profile%20views&color=0e75b6&style=flat" alt="agdev04" /> </p>
 
-- 🔭 I’m currently working on **Discord bots and Websites**
-
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **Discord Bots**
+- 🔭 I’m currently working on **Websites**
 
 - 📫 How to reach me **yatharthpopli4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/4Ebp7zMw9n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4Ebp7zMw9n" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
